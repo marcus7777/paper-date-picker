@@ -94,7 +94,7 @@ paper-calendar {
 #yearList {
   @apply(--layout-vertical);
   display: block;
-  height: 100%;
+  height: 240px;
   overflow-y: auto;
   overflow-x: hidden;
 }
